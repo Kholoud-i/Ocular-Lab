@@ -16,17 +16,15 @@ Generalized Linear Models (GLMs): Statistical models used to estimate how task v
 
 Data Collection
 
-Eye-tracking recordings from human subjects performing visual tasks
-Extracted saccade events and computed latency and accuracy metrics
+Eye-tracking recordings from human subjects performing visual tasks, extracted saccade events and computed latency and accuracy metrics.
 
 Feature Engineering
-Derived performance metrics from raw gaze coordinates
-Encoded experimental task conditions 
+
+Derived performance metrics from raw gaze coordinates, encoded experimental task conditions. 
 
 ## Modeling
 Applied Generalized Linear Models to estimate the effect of task conditions on:
-  Saccade latency
-  Saccade accuracy
+Saccade latency & Saccade accuracy
 
 ## Evaluation & Interpretation
 The saccade dynamics data were rigorously evaluated using Generalized Linear Models to quantify the impact of task conditions on both latency and accuracy. 
