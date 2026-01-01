@@ -25,8 +25,8 @@ Encoded experimental task conditions
 
 ## Modeling
 Applied Generalized Linear Models to estimate the effect of task conditions on:
-Saccade latency
-Saccade accuracy
+  Saccade latency
+  Saccade accuracy
 
 ## Evaluation & Interpretation
 The saccade dynamics data were rigorously evaluated using Generalized Linear Models to quantify the impact of task conditions on both latency and accuracy. 
