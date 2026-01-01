@@ -23,7 +23,7 @@ Feature Engineering
 Derived performance metrics from raw gaze coordinates
 Encoded experimental task conditions 
 
-Modeling
+## Modeling
 Applied Generalized Linear Models to estimate the effect of task conditions on:
 Saccade latency
 Saccade accuracy
