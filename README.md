@@ -8,8 +8,8 @@ The goal was to identify how task design impacts how quickly and how precisely t
 ## Key Concepts
 
   Saccades: Rapid eye movements that shift focus between visual targets  
-  Latency: Time delay between stimulus presentation and eye movement initiationAccuracy:  
-  Precision of eye landing position relative to the intended target  
+  Latency: Time delay between stimulus presentation and eye movement initiation  
+  Accuracy: Precision of eye landing position relative to the intended target  
   Generalized Linear Models (GLMs): Statistical models used to estimate how task variables affect latency and accuracy
 
 ## Methods
