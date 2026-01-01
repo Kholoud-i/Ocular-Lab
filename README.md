@@ -38,7 +38,7 @@ robust characterization of how experimental manipulations influence oculomotor b
 
 ## Applications
 
-Cognitive neuroscience research
-Human-computer interaction
+Cognitive neuroscience research  
+Human-computer interaction  
 Clinical and behavioral performance analysis
 
