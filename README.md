@@ -1,4 +1,5 @@
 # Ocular-Lab
+  Our lab investigates the neural and computational mechanisms underlying human visual information processing. We combine behavioral experimentation, eye-tracking, and advanced statistical modeling to understand how the brain transforms sensory input into perception.
 ## Project Overview
 This project analyzes human eye-movement behavior to understand how different task conditions influence reaction time and accuracy.
 Using eye-tracking data, I modeled saccade dynamics (rapid eye movements between points of focus) with statistical techniques (Generalized Linear Models) to quantify performance under varying experimental conditions.
